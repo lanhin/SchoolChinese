@@ -10,7 +10,15 @@
 
 [《论语》十则](r/71/lunyu.md)
 
+[童趣  沈夏](r/71/tongqu.md)
+
 [观沧海  曹操](r/71/guancanghai.md)
+
+[次北固山下  王湾](r/71/cibeigushanxia.md)
+
+[钱塘湖春行  白居易](r/71/qiantanghuchunxing.md)
+
+[天净沙·秋思  马致远](r/71/tianjingsha.md)
 
 ### 七年级语文下册
 
@@ -19,6 +27,8 @@
 [桃花源记  陶渊明](r/81/taohuayuanji.md)
 
 ### 八年级语文下册
+
+[马说 韩愈](r/82/mashuo.md)
 
 ### 九年级语文上册
 
