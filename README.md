@@ -10,6 +10,8 @@
 
 [《论语》十则](r/71/lunyu.md)
 
+[童趣  沈夏](r/71/tongqu.md)
+
 [观沧海  曹操](r/71/guancanghai.md)
 
 ### 七年级语文下册
