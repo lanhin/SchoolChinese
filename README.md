@@ -16,6 +16,8 @@
 
 [次北固山下  王湾](r/71/cibeigushanxia.md)
 
+[钱塘湖春行  白居易](r/71/qiantanghuchunxing.md)
+
 ### 七年级语文下册
 
 ### 八年级语文上册
