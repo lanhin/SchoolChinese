@@ -14,6 +14,8 @@
 
 [观沧海  曹操](r/71/guancanghai.md)
 
+[次北固山下  王湾](r/71/cibeigushanxia.md)
+
 ### 七年级语文下册
 
 ### 八年级语文上册
