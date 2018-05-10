@@ -18,6 +18,8 @@
 
 [钱塘湖春行  白居易](r/71/qiantanghuchunxing.md)
 
+[天净沙·秋思  马致远](r/71/tianjingsha.md)
+
 ### 七年级语文下册
 
 ### 八年级语文上册
