@@ -40,13 +40,21 @@
 
 ### 高一语文必修一
 
+[沁园春·长沙  毛泽东](s/1/changsha.md)
+
 [劝学（节选）  荀子](s/1/quanxue.md)
 
 [师说  韩愈](s/1/shishuo.md)
 
 [赤壁赋  苏轼](s/1/chibifu.md)
 
+[始得西山宴游记  柳宗元](s/1/shidexishan.md)
+
 ### 高一语文必修二
+
+[念奴娇·赤壁怀古  苏轼](s/2/chibihuaigu.md)
+
+[永遇乐·京口北固亭怀古  辛弃疾](s/2/beigutinghuaigu.md)
 
 ### 高二语文必修三
 
