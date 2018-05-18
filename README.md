@@ -52,11 +52,17 @@
 
 ### 高一语文必修二
 
+[六国论  苏洵](s/2/liuguolun.md)
+
+[阿房宫赋  杜牧](s/2/epanggongfu.md)
+
 [念奴娇·赤壁怀古  苏轼](s/2/chibihuaigu.md)
 
 [永遇乐·京口北固亭怀古  辛弃疾](s/2/beigutinghuaigu.md)
 
 ### 高二语文必修三
+
+[离骚（节选）  屈原](s/3/lisao.md)
 
 ### 高二语文必修四
 
