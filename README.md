@@ -10,6 +10,8 @@
 
 [童趣  沈复](r/71/tongqu.md)
 
+[《世说新语》两则（《咏雪》《陈太丘与友期》）](r/71/shishuoxinyu.md)
+
 [《论语》十则](r/71/lunyu.md)
 
 [观沧海  曹操](r/71/guancanghai.md)
