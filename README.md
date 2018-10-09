@@ -22,6 +22,10 @@
 
 [天净沙·秋思  马致远](r/71/tianjingsha.md)
 
+[智子疑邻 《韩非子》](r/71/zhiziyilin.md)
+
+[塞翁失马 《淮南子》](r/71/saiwengshima.md)
+
 ### 七年级语文下册
 
 ### 八年级语文上册
