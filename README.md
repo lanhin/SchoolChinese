@@ -48,6 +48,20 @@
 
 ### 七年级语文下册
 
+[伤仲永  王安石](r/72/shangzhongyong.md)
+
+[木兰诗](r/72/mulanshi.md)
+
+[孙权劝学  《资治通鉴》](r/72/sunquanquanxue.md)
+
+[口技  林嗣环](r/72/kouji.md)
+
+[夸父逐日  《山海经》](r/72/kuafuzhuri.md)
+
+[共工触怒不周山  《淮南子》](r/72/gonggong.md)
+
+[狼  蒲松龄](r/72/lang.md)
+
 ### 八年级语文上册
 
 [桃花源记  陶渊明](r/81/taohuayuanji.md)
