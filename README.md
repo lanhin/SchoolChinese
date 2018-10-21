@@ -62,6 +62,26 @@
 
 [狼  蒲松龄](r/72/lang.md)
 
+[山中杂诗  吴均](r/72/shanzhongzashi.md)
+
+[竹里馆  王维](r/72/zhuliguan.md)
+
+[峨眉山月歌  李白](r/72/emeishanyuege.md)
+
+[春夜洛城闻笛  李白](r/72/chunyeluocheng.md)
+
+[逢入京使  岑参](r/72/rujingshi.md)
+
+[滁州西涧  韦应物](r/72/chuzhouxijian.md)
+
+[江南逢李龟年  杜甫](r/72/liguinian.md)
+
+[送灵澈上人  刘长卿](r/72/lingcheshangren.md)
+
+[约客  赵师秀](r/72/yueke.md)
+
+[论诗  赵翼](r/72/lunshi.md)
+
 ### 八年级语文上册
 
 [桃花源记  陶渊明](r/81/taohuayuanji.md)
