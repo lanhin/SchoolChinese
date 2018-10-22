@@ -86,6 +86,38 @@
 
 [桃花源记  陶渊明](r/81/taohuayuanji.md)
 
+[陋室铭  刘禹锡](r/81/loushiming.md)
+
+[爱莲说  周敦颐](r/81/ailianshuo.md)
+
+[核舟记  魏学洢](r/81/hezhouji.md)
+
+[大道之行也  《礼记》](r/81/dadaozhixing.md)
+
+[望岳  杜甫](r/81/wangyue.md)
+
+[春望  杜甫](r/81/chunwang.md)
+
+[石壕吏  杜甫](r/81/shihaoli.md)
+
+[三峡  郦道元](r/81/sanxia.md)
+
+[答谢中书书  陶弘景](r/81/xiezhongshu.md)
+
+[记承天寺夜游  苏轼](r/81/chengtiansi.md)
+
+[观潮  周密](r/81/guanchao.md)
+
+[湖心亭看雪  张岱](r/81/huxinting.md)
+
+[归园田居（其三）  陶渊明](r/81/guiyuantianju.md)
+
+[使至塞上  王维](r/81/shizhisaishang.md)
+
+[渡荆门送别  李白](r/81/jingmen.md)
+
+[登岳阳楼（其一）  陈与义](r/81/yueyanglou.md)
+
 ### 八年级语文下册
 
 [马说 韩愈](r/82/mashuo.md)
