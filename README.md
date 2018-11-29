@@ -140,7 +140,41 @@
 
 ### 八年级语文下册
 
+[与朱元思书  吴均](r/82/zhuyuansishu.md)
+
+[五柳先生传  陶渊明](r/82/wuliuxiansheng.md)
+
 [马说 韩愈](r/82/mashuo.md)
+
+[送东阳马生序  宋濂](r/82/dongyangmasheng.md)
+
+[酬乐天扬州初逢席上见赠  刘禹锡](r/82/chouletian.md)
+
+[赤壁  杜牧](r/82/chibi.md)
+
+[过零丁洋  文天祥](r/82/lingdingyang.md)
+
+[水调歌头  苏轼](r/82/shuidiaogetou.md)
+
+[山坡羊·潼关怀古  张养浩](r/82/tongguanhuangu.md)
+
+[小石潭记  柳宗元](r/82/xiaoshitanji.md)
+
+[岳阳楼记  范仲淹](r/82/yueyanglouji.md)
+
+[醉翁亭记  欧阳修](r/82/zuiwengtingji.md)
+
+[满井游记  袁宏道](r/82/manjingyouji.md)
+
+[饮酒（其五）  陶渊明](r/82/yinjiu.md)
+
+[行路难（其一）  李白](r/82/xinglunan.md)
+
+[茅屋为秋风所破歌  杜甫](r/82/maowu.md)
+
+[白雪歌送武判官归京  岑参](r/82/baixuege.md)
+
+[己亥杂诗  龚自珍](r/82/jihaizashi.md)
 
 ### 九年级语文上册
 
