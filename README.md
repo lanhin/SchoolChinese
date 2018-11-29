@@ -118,6 +118,26 @@
 
 [登岳阳楼（其一）  陈与义](r/81/yueyanglou.md)
 
+[长歌行  汉乐府](r/81/changgexing.md)
+
+[野望  王绩](r/81/yewang.md)
+
+[早寒江上有怀  孟浩然](r/81/zaohanjiangshang.md)
+
+[望洞庭湖赠张丞相  孟浩然](r/81/wangdongting.md)
+
+[黄鹤楼  崔颢](r/81/huanghelou.md)
+
+[送友人  李白](r/81/songyouren.md)
+
+[秋词  刘禹锡](r/81/qiuci.md)
+
+[鲁山山行  梅尧臣](r/81/lushanshanxing.md)
+
+[浣溪沙  苏轼](r/81/huanxisha.md)
+
+[十一月四日风雨大作  陆游](r/81/fengyudazuo.md)
+
 ### 八年级语文下册
 
 [马说 韩愈](r/82/mashuo.md)
