@@ -176,6 +176,26 @@
 
 [己亥杂诗  龚自珍](r/82/jihaizashi.md)
 
+[赠从弟（其二）  刘桢](r/82/zengcongdi.md)
+
+[送杜少府之任蜀州  王勃](r/82/dushaofu.md)
+
+[登幽州台歌  陈子昂](r/82/youzhoutaige.md)
+
+[终南别业  王维](r/82/zhongnanbieye.md)
+
+[宣州谢朓楼饯别校书叔云  李白](r/82/xietiaolou.md)
+
+[早春呈水部张十八员外  韩愈](r/82/zaochun.md)
+
+[无题  李商隐](r/82/wuti.md)
+
+[相见欢  李煜](r/82/xiangjianhuan.md)
+
+[登飞来峰  王安石](r/82/feilaifeng.md)
+
+[苏幕遮  范仲淹](r/82/sumuzhe.md)
+
 ### 九年级语文上册
 
 ### 九年级语文下册
