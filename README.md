@@ -198,6 +198,46 @@
 
 ### 九年级语文上册
 
+[沁园春·雪  毛泽东](r/91/qinyuanchun.md)
+
+[陈涉世家  司马迁](r/91/chensheshijia.md)
+
+[唐雎不辱使命  《战国策》](r/91/tangju.md)
+
+[隆中对  陈寿](r/91/longzhongdui.md)
+
+[出师表  诸葛亮](r/91/chushibiao.md)
+
+[望江南  温庭筠](r/91/wangjiangnan.md)
+
+[渔家傲·秋思  范仲淹](r/91/yujiaao.md)
+
+[江城子·密州出猎  苏轼](r/91/mizhouchulie.md)
+
+[武陵春  李清照](r/91/wulingchun.md)
+
+[破阵子·为陈同甫赋壮词以寄  辛弃疾](r/91/pozhenzi.md)
+
+[观刈麦  白居易](r/91/guanyimai.md)
+
+[月夜  刘方平](r/91/yueye.md)
+
+[商山早行  温庭筠](r/91/shangshan.md)
+
+[卜算子·咏梅  陆游](r/91/yongmei.md)
+
+[破阵子  晏殊](r/91/pozhenzi_yanshu.md)
+
+[浣溪沙  苏轼](r/91/huanxisha.md)
+
+[醉花阴  李清照](r/91/zuihuayin.md)
+
+[南乡子·登京口北固亭有怀  辛弃疾](r/91/nanxiangzi.md)
+
+[山坡羊·骊山怀古  张养浩](r/91/shanpoyang.md)
+
+[朝天子·咏喇叭  王磐](r/91/chaotianzi.md)
+
 ### 九年级语文下册
 
 [《孟子》两章](r/92/mengzi.md)
