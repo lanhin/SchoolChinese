@@ -240,7 +240,17 @@
 
 ### 九年级语文下册
 
+[公输  《墨子》](r/92/gongshu.md)
+
 [《孟子》两章](r/92/mengzi.md)
+
+[鱼我所欲也  《孟子》](r/92/yuwosuoyu.md)
+
+[《庄子》故事两则](r/92/zhuangzi.md)
+
+[曹刿论战  《左传》](r/92/caoguilunzhan.md)
+
+[邹忌讽齐王纳谏  《战国策》](r/92/zouji.md)
 
 ------
 
