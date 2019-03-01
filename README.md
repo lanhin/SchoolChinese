@@ -252,6 +252,18 @@
 
 [邹忌讽齐王纳谏  《战国策》](r/92/zouji.md)
 
+[愚公移山  《列子》](r/92/yugong.md)
+
+[关雎  《诗经》](r/92/guanju.md)
+
+[蒹葭  《诗经》](r/92/jianjia.md)
+
+[从军行  杨炯](r/92/congjunxing.md)
+
+[月下独酌  李白](r/92/yuexiaduzhuo.md)
+
+[羌村三首（之三）  杜甫](r/92/qiangcun.md)
+
 ------
 
 ## 苏教版
