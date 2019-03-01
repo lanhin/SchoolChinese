@@ -264,6 +264,20 @@
 
 [羌村三首（之三）  杜甫](r/92/qiangcun.md)
 
+[登楼  杜甫](r/92/denglou.md)
+
+[走马川行奉送封大夫出师西征  岑参](r/92/zouma.md)
+
+[左迁至蓝关示侄孙湘  韩愈](r/92/zuoqian.md)
+
+[望月有感  白居易](r/92/wangyue.md)
+
+[雁门太守行  李贺](r/92/yanmen.md)
+
+[卜算子·送鲍浩然之浙东  王观](r/92/busuanzi.md)
+
+[别云间  夏完淳](r/92/bieyunjian.md)
+
 ------
 
 ## 苏教版
@@ -292,7 +306,23 @@
 
 ### 高二语文必修三
 
+[指南录后序  文天祥](s/3/zhinanlu.md)
+
+[五人墓碑记  张溥](s/3/wuren.md)
+
 [离骚（节选）  屈原](s/3/lisao.md)
+
+[烛之武退秦师  左丘明](s/3/zhuzhiwu.md)
+
+[谏太宗十思疏  魏徵](s/3/shisishu.md)
+
+[廉颇蔺相如列传（节选）  司马迁](s/3/lianpo.md)
+
+[鸿门宴  司马迁](s/3/hongmenyan.md)
+
+[秋水（节选）  庄子](s/3/qiushui.md)
+
+[非攻（节选）  墨子](s/3/feigong.md)
 
 ### 高二语文必修四
 
