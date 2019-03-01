@@ -326,7 +326,31 @@
 
 ### 高二语文必修四
 
+[季氏将伐颛臾  《论语》](s/4/jishi.md)
+
+[寡人之于国也  《孟子》](s/4/guaren.md)
+
+[黄花岗烈士事略序  孙文](s/4/huanghuagang.md)
+
+[蜀道难  李白](s/4/shudaonan.md)
+
+[登高  杜甫](s/4/denggao.md)
+
+[琵琶行（并序）  白居易](s/4/pipaxing.md)
+
+[锦瑟  李商隐](s/4/jinse.md)
+
+[虞美人  李煜](s/4/yumeiren.md)
+
+[蝶恋花  晏殊](s/4/dielianhua.md)
+
+[雨霖铃  柳永](s/4/yulinling.md)
+
+[声声慢  李清照](s/4/shengshengman.md)
+
 [滕王阁序  王勃](s/4/tengwanggexu.md)
+
+[秋声赋  欧阳修](s/4/qiushengfu.md)
 
 ### 高三语文必修五
 
